@@ -1,0 +1,293 @@
+{
+  "slug": "aquascapelab",
+  "projectName": "aquascapelab",
+  "baseUrl": "https://rmulkey.github.io/aquascapelab",
+  "brand": "AquaScapeLab",
+  "category": "Aquarium Aquascaping Tools And Maintenance Gear",
+  "eyebrow": "Aquarium setup edit",
+  "title": "Best Aquarium Aquascaping Tools And Maintenance Gear",
+  "description": "AquaScapeLab curates aquascaping tweezers, plant tools, gravel vacuums, algae scrapers, tank organizers, and aquarium maintenance accessories.",
+  "h1": "Aquarium tools for tanks that stay easier to shape.",
+  "dek": "A calmer shortlist for planted tanks and aquarium upkeep: tweezers, scissors, scrapers, gravel vacs, and the tools that make maintenance less awkward.",
+  "guideSlug": "aquarium-aquascaping-tools-guide",
+  "guideTitle": "Aquarium Aquascaping Tools Guide",
+  "guideDescription": "Compare aquascaping tweezers, plant scissors, gravel vacuums, algae scrapers, and tank maintenance tools before buying.",
+  "queries": [
+    "aquarium aquascaping tools",
+    "aquarium plant tools",
+    "aquarium gravel vacuum",
+    "fish tank algae scraper",
+    "aquarium tweezers scissors kit"
+  ],
+  "palette": [
+    "#eaf3f2",
+    "#101b1c",
+    "#4b9a96",
+    "#245154",
+    "#c9e3e1"
+  ],
+  "icon": "M18 42c8-14 28-14 36 0-8 14-28 14-36 0Zm10-1h.1M38 36h.1M48 42h.1M30 50c5 3 12 3 17 0",
+  "longTailPages": [
+    {
+      "slug": "best-aquascaping-tools-for-beginners",
+      "title": "Best Aquascaping Tools For Beginners",
+      "intent": "first planted tank tool set",
+      "angle": "starter tools that make planting, trimming, and moving substrate easier without buying pro gear too early",
+      "productHints": [
+        "aquascaping",
+        "tool",
+        "kit",
+        "tweezer",
+        "scissor"
+      ]
+    },
+    {
+      "slug": "best-aquarium-tweezers-and-scissors",
+      "title": "Best Aquarium Tweezers And Scissors",
+      "intent": "planting and trimming tools",
+      "angle": "long tools to compare when hand placement, reach, and trimming control matter inside the tank",
+      "productHints": [
+        "tweezer",
+        "scissor",
+        "plant",
+        "tool"
+      ]
+    },
+    {
+      "slug": "best-aquarium-gravel-vacuum",
+      "title": "Best Aquarium Gravel Vacuum",
+      "intent": "substrate cleaning",
+      "angle": "gravel vacuums and siphons to compare for tank size, hose control, and regular water changes",
+      "productHints": [
+        "gravel",
+        "vacuum",
+        "siphon",
+        "cleaner"
+      ]
+    },
+    {
+      "slug": "best-fish-tank-algae-scraper",
+      "title": "Best Fish Tank Algae Scraper",
+      "intent": "glass algae cleanup",
+      "angle": "scrapers and pads to compare before choosing the right reach and surface compatibility",
+      "productHints": [
+        "algae",
+        "scraper",
+        "cleaner",
+        "glass"
+      ]
+    },
+    {
+      "slug": "best-aquarium-planting-kit",
+      "title": "Best Aquarium Planting Kit",
+      "intent": "plant-focused aquascaping",
+      "angle": "tool bundles for planting stems, adjusting hardscape, and trimming growth without disturbing the tank too much",
+      "productHints": [
+        "plant",
+        "kit",
+        "aquascaping",
+        "tweezer"
+      ]
+    },
+    {
+      "slug": "best-aquarium-maintenance-tools",
+      "title": "Best Aquarium Maintenance Tools",
+      "intent": "routine tank upkeep",
+      "angle": "maintenance tools that make water changes, glass cleaning, and plant touch-ups easier to repeat",
+      "productHints": [
+        "maintenance",
+        "cleaner",
+        "vacuum",
+        "scraper",
+        "tool"
+      ]
+    }
+  ],
+  "affiliateTag": "deno-sites-20",
+  "lastUpdated": "2026-06-26",
+  "productCount": 24,
+  "urls": [
+    "https://rmulkey.github.io/aquascapelab/",
+    "https://rmulkey.github.io/aquascapelab/top-7/",
+    "https://rmulkey.github.io/aquascapelab/guides/aquarium-aquascaping-tools-guide/",
+    "https://rmulkey.github.io/aquascapelab/best/best-aquascaping-tools-for-beginners/",
+    "https://rmulkey.github.io/aquascapelab/best/best-aquarium-tweezers-and-scissors/",
+    "https://rmulkey.github.io/aquascapelab/best/best-aquarium-gravel-vacuum/",
+    "https://rmulkey.github.io/aquascapelab/best/best-fish-tank-algae-scraper/",
+    "https://rmulkey.github.io/aquascapelab/best/best-aquarium-planting-kit/",
+    "https://rmulkey.github.io/aquascapelab/best/best-aquarium-maintenance-tools/",
+    "https://rmulkey.github.io/aquascapelab/affiliate-disclosure/",
+    "https://rmulkey.github.io/aquascapelab/editorial-policy/",
+    "https://rmulkey.github.io/aquascapelab/contact/"
+  ],
+  "products": [
+    {
+      "asin": "B0C8G65ZCF",
+      "title": "4Pcs Aquascaping Tools, Jeimier Aquascape Kit, Long and Strong Aquarium Tweezers, Scissors, Algae Scraper, Aquarium Plant Tools,...",
+      "image": "https://m.media-amazon.com/images/I/51isyiZt8CL._AC_SL1500_.jpg",
+      "category": "Starter Kit",
+      "url": "https://www.amazon.com/dp/B0C8G65ZCF?tag=deno-sites-20"
+    },
+    {
+      "asin": "B07TRLK3P7",
+      "title": "Aquarium Aquascape Tools Kit, 4 in 1 Anti-Rust Aquatic Plant Aquascaping Tool Stainless Steel Black Tweezers Scissors Spatula for...",
+      "image": "https://m.media-amazon.com/images/I/611hNF8dMeL._AC_SL1500_.jpg",
+      "category": "Starter Kit",
+      "url": "https://www.amazon.com/dp/B07TRLK3P7?tag=deno-sites-20"
+    },
+    {
+      "asin": "B09WMRNCRQ",
+      "title": "Aquarium Aquascape Tools Kit, Long 15 Inch Stainless Steel Aquatic Plants Tools, 4 in 1 Anti-Rust Aquascaping Tweezers Scissors S...",
+      "image": "https://m.media-amazon.com/images/I/61eL5RhHpYL._AC_SL1500_.jpg",
+      "category": "Starter Kit",
+      "url": "https://www.amazon.com/dp/B09WMRNCRQ?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0B3STWB93",
+      "title": "hygger 6-in-1 Long Aquarium Aquascaping Tools Kit, Color Stainless Steel Premium Aquatic Plant Tweezers Scissors Spatula Kit Come...",
+      "image": "https://m.media-amazon.com/images/I/61N8yZMYxuL._AC_SL1500_.jpg",
+      "category": "Starter Kit",
+      "url": "https://www.amazon.com/dp/B0B3STWB93?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0CJBTXQ9Q",
+      "title": "Ohtomber Aquascape Tools Aquarium Kit - 4PCS Terrarium Supplies Include Long Tweezers for Terrarium, Feeding Tongs, Aquarium Scis...",
+      "image": "https://m.media-amazon.com/images/I/51mjKo24Z7L._AC_SL1500_.jpg",
+      "category": "Starter Kit",
+      "url": "https://www.amazon.com/dp/B0CJBTXQ9Q?tag=deno-sites-20"
+    },
+    {
+      "asin": "B08CGCWL36",
+      "title": "hygger Long Stainless Steel Premium Aquarium Tools, 4 PCS Aquatic Plant Tweezers Scissors Spatula Kits Comes with 1 Cleaning Clot...",
+      "image": "https://m.media-amazon.com/images/I/61DJeJAB99L._AC_SL1500_.jpg",
+      "category": "Starter Kit",
+      "url": "https://www.amazon.com/dp/B08CGCWL36?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0C6KF1MX6",
+      "title": "Aquarium Aquascape Tools Kit, Long 15 Inch Stainless Steel Aquatic Plants Tools, 4 in 1 Anti-Rust Black Aquascaping Tweezers Scis...",
+      "image": "https://m.media-amazon.com/images/I/61x4R40PtHL._AC_SL1500_.jpg",
+      "category": "Starter Kit",
+      "url": "https://www.amazon.com/dp/B0C6KF1MX6?tag=deno-sites-20"
+    },
+    {
+      "asin": "B09C1TLBVG",
+      "title": "Aquarium Aquascape Tools Kit 15in, 4 in 1 Anti-Rust Aquatic Plant Aquascaping Tool Stainless Steel Tweezers Scissor Spatula for A...",
+      "image": "https://m.media-amazon.com/images/I/61uDAdP1GAL._AC_SL1500_.jpg",
+      "category": "Starter Kit",
+      "url": "https://www.amazon.com/dp/B09C1TLBVG?tag=deno-sites-20"
+    },
+    {
+      "asin": "B07RNMDLM2",
+      "title": "Capetsma Aquascape Long Stainless Steel Plant Tools Set - Aquarium Tweezers, Scissors, Spatula, Algae Scrapers - Fish Tank Cleani...",
+      "image": "https://m.media-amazon.com/images/I/51q5uhODXnL._AC_SL1500_.jpg",
+      "category": "Starter Kit",
+      "url": "https://www.amazon.com/dp/B07RNMDLM2?tag=deno-sites-20"
+    },
+    {
+      "asin": "B08NNZ5L82",
+      "title": "7 in 1 Aquarium Aquascaping Tools Kits,Stainless Steel Aquarium Plant Tools Tweezers Scissors Scrapers for Aquarium Tank Clean Fi...",
+      "image": "https://m.media-amazon.com/images/I/61qsQ5RkI8L._AC_SL1500_.jpg",
+      "category": "Starter Kit",
+      "url": "https://www.amazon.com/dp/B08NNZ5L82?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0CRSYG1H6",
+      "title": "Fri4Free 2PCS Long Aquarium Tweezers - 10.6\" Straight and Curved Tweezers, Stainless Steel Reptile Feeding tongs, Terrarium Aquas...",
+      "image": "https://m.media-amazon.com/images/I/61jAfIEHlvL._AC_SL1500_.jpg",
+      "category": "Aquarium Aquascaping Tools And Maintenance Gear",
+      "url": "https://www.amazon.com/dp/B0CRSYG1H6?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0DYH56F3S",
+      "title": "Tifanso Aquarium Aquascape Tools Kit - 4 in 1 Terrarium Decor Supplies with Long Tweezers Feeding Tongs, Aquarium Scissors, Algae...",
+      "image": "https://m.media-amazon.com/images/I/51PkpHvM4qL._AC_SL1500_.jpg",
+      "category": "Starter Kit",
+      "url": "https://www.amazon.com/dp/B0DYH56F3S?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0GK71DSRH",
+      "title": "Oligei Terrarium Supplies 3 PCS, Stainless Steel Aquarium Supplies Set, Include Long Aquarium Tweezers, Curved Tweezers, Algae Sc...",
+      "image": "https://m.media-amazon.com/images/I/51-JednpByL._AC_SL1500_.jpg",
+      "category": "Starter Kit",
+      "url": "https://www.amazon.com/dp/B0GK71DSRH?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0DB5Q46WL",
+      "title": "Hiceeden 4 Pcs 15 Inch Long Aquarium Aquascape Tools, Stainless Steel Aquascaping Tools Kit Include Aquarium Tweezer, Scissor, Sp...",
+      "image": "https://m.media-amazon.com/images/I/61hfrOGgAwL._AC_SL1500_.jpg",
+      "category": "Starter Kit",
+      "url": "https://www.amazon.com/dp/B0DB5Q46WL?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0C3H4NJRX",
+      "title": "15in Aquascaping Tools, 4 in 1 Long Aquarium Tweezers Scissors Spatula, Stainless Steel Aquatic Plants Aquascaping Tools Set for...",
+      "image": "https://m.media-amazon.com/images/I/61q3G4VEDaL._AC_SL1500_.jpg",
+      "category": "Starter Kit",
+      "url": "https://www.amazon.com/dp/B0C3H4NJRX?tag=deno-sites-20"
+    },
+    {
+      "asin": "B07C1ZC27D",
+      "title": "Aquarium Aquascaping Tool, Long Tweezers Scissors Spatula, 4 in 1 Stainless Steel Aquatic Plants Set for Fish Starter Kits, Aquar...",
+      "image": "https://m.media-amazon.com/images/I/61pdwcqWtEL._AC_SL1500_.jpg",
+      "category": "Starter Kit",
+      "url": "https://www.amazon.com/dp/B07C1ZC27D?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0FJDZNPGZ",
+      "title": "Carefree Fish 7IN1 Aquarium Cleaning Tools Long Handle Adjustable Length 18~24Inch Fish Tank Cleaner Kit Algae Scraper Scrubber B...",
+      "image": "https://m.media-amazon.com/images/I/61qYf1hjNKL._AC_SL1500_.jpg",
+      "category": "Starter Kit",
+      "url": "https://www.amazon.com/dp/B0FJDZNPGZ?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0FQ3CGK35",
+      "title": "Aquarium Aquascape Tools Kit, 15 inch Stainless Steel Includes Brush, Tweezers/Feeding Tongs, Scissors, Spatula, Algae Scraper, R...",
+      "image": "https://m.media-amazon.com/images/I/611+d7Mdj3L._AC_SL1500_.jpg",
+      "category": "Starter Kit",
+      "url": "https://www.amazon.com/dp/B0FQ3CGK35?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0FD9QXWKY",
+      "title": "15Inch Extra Long Design Aquarium Aquascaping Tool Stainless Steel Aquascape Tools Kit 4 in 1 Anti-Rust Fish Tank Starter Kit wit...",
+      "image": "https://m.media-amazon.com/images/I/61YG7GpIcUL._AC_SL1500_.jpg",
+      "category": "Starter Kit",
+      "url": "https://www.amazon.com/dp/B0FD9QXWKY?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0828G8JWB",
+      "title": "Luxiv Aquarium Aquascape Tools Kit, 6 in 1 A Aquatic Plant Aquascaping Tool Stainless Steel Tweezers Scissors Spatula for Aquariu...",
+      "image": "https://m.media-amazon.com/images/I/61cZtb+seSL._AC_SL1500_.jpg",
+      "category": "Starter Kit",
+      "url": "https://www.amazon.com/dp/B0828G8JWB?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0B6TZ769M",
+      "title": "Aquarium Aquascape Tools Kit, 4 in 1 Anti-Rust Aquatic Plant Aquascaping Tool Stainless Steel Black Tweezers Scissors Spatula for...",
+      "image": "https://m.media-amazon.com/images/I/71O0DqPbGPL._AC_SL1500_.jpg",
+      "category": "Starter Kit",
+      "url": "https://www.amazon.com/dp/B0B6TZ769M?tag=deno-sites-20"
+    },
+    {
+      "asin": "B08PD16XJV",
+      "title": "Aquascaping Tools 7 in 1 Kit Aquarium Plant Scissors Tools Set Curved & Waved Scissor Tweezers Spatula Stainless Steel Anti Rust...",
+      "image": "https://m.media-amazon.com/images/I/61udDvIXb8L._AC_SL1500_.jpg",
+      "category": "Starter Kit",
+      "url": "https://www.amazon.com/dp/B08PD16XJV?tag=deno-sites-20"
+    },
+    {
+      "asin": "B09VKS835L",
+      "title": "Extra Long Aquarium Aquascaping Tools Kit 8 in 1, Liveek Stainless Steel Aquarium Plant Tools Long Fish Tank Aquascape Tweezers S...",
+      "image": "https://m.media-amazon.com/images/I/71ah70vDkKL._AC_SL1500_.jpg",
+      "category": "Starter Kit",
+      "url": "https://www.amazon.com/dp/B09VKS835L?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0BM4BRQZ3",
+      "title": "6 in 1 Aquascaping Tool Kit with PH Tester, Black Steel Aquatic Landscaping Equipment Perfect to Create A Stunning Underwater Sca...",
+      "image": "https://m.media-amazon.com/images/I/71iQYoa-o8L._AC_SL1500_.jpg",
+      "category": "Starter Kit",
+      "url": "https://www.amazon.com/dp/B0BM4BRQZ3?tag=deno-sites-20"
+    }
+  ]
+}
